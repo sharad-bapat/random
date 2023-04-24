@@ -1,0 +1,22 @@
+.content img {
+  display: block;
+  max-width: 80vw!important;  
+}
+
+.content figure {
+  display: block;
+  max-width: 80vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.content figure >img {
+  display: block;
+  max-width: 80vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+#offcanvasStumbleW{
+  max-width: 75vw;
+}
